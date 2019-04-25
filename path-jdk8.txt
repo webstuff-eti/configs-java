@@ -4,5 +4,8 @@ C:\Program Files (x86)\Common Files\Oracle\Java\javapath;
 %SystemRoot%\System32\Wbem;
 %SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
 %SYSTEMROOT%\System32\OpenSSH\;
+%M2_HOME%\bin;
 %MAVEN_HOME%\bin;
 %JAVA_HOME%\bin;
+%JRE_HOME%
+%MAVEN_OPTS%

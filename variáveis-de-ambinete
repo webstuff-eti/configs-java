@@ -1,0 +1,34 @@
+
+VARIÁVEIS DE AMBIENTE:
+
+Nome da variável   	--    	Valor da variavél
+
+JAVA_HOME 			-- 		C:\Program Files\Java\jdk1.8.0_201
+JRE_HOME 			--  	C:\Program Files\Java\jre1.8.0_201
+
+MAVEN_HOME 			-- 		C:\apache-maven-3.6.1
+M2_HOME 			-- 		C:\apache-maven-3.6.1
+MAVEN_OPTS 			-- 		-Xmx1024m           [PARA JDK 1.8]
+
+Classpath       	--     ;%JAVA_HOME%\lib;
+						    %JAVA_HOME%\lib\ant-javafx.jar;
+							%JAVA_HOME%\lib\dt.jar;
+							%JAVA_HOME%\lib\javafx-mx.jar;
+							%JAVA_HOME%\lib\jconsole.jar;
+							%JAVA_HOME%\lib\packager.jar;
+							%JAVA_HOME%\lib\sa-jdi.jar;
+							%JAVA_HOME%\lib\tools.jar;
+							%JAVA_HOME%\jre\lib;
+							%JAVA_HOME%\jre\lib\charsets.jar;
+							%JAVA_HOME%\jre\lib\deploy.jar;
+							%JAVA_HOME%\jre\lib\javaws.jar;
+							%JAVA_HOME%\jre\lib\jce.jar;
+							%JAVA_HOME%\jre\lib\jfr.jar;
+							%JAVA_HOME%\jre\lib\jfxswt.jar;
+							%JAVA_HOME%\jre\lib\jsse.jar;
+							%JAVA_HOME%\jre\lib\management-agent.jar;
+							%JAVA_HOME%\jre\lib\plugin.jar;
+							%JAVA_HOME%\jre\lib\resources.jar;
+							%JAVA_HOME%\jre\lib\rt.jar;
+
+
